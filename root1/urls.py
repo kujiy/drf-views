@@ -23,5 +23,6 @@ urlpatterns = [
     path('', include('decorator_view.urls')),
     path('', include('views_apiview.urls')),
     path('', include('generics_view.urls')),
+    path('', include('viewset_view.urls')),
 
 ]

@@ -40,8 +40,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'decorator_view.apps.DecoratorViewConfig',
     'views_apiview.apps.ViewsApiviewConfig',
-    'generics_view.apps.GenericsViewConfig'
-
+    'generics_view.apps.GenericsViewConfig',
+    'viewset_view.apps.ViewsetViewConfig'
 ]
 
 MIDDLEWARE = [
