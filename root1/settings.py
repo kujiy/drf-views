@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'decorator_view.apps.DecoratorViewConfig',
+    'views_apiview.apps.ViewsApiviewConfig',
 
 ]
 
