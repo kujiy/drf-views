@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'decorator_view.apps.DecoratorViewConfig',
     'views_apiview.apps.ViewsApiviewConfig',
+    'generics_view.apps.GenericsViewConfig'
 
 ]
 
