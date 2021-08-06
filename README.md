@@ -3,8 +3,9 @@
 1. /decorator_view
 2. /views_apiview
 3. /generics_view
+    - accepts PATCH
 4. /viewset_view
-    - ViewSet only accepts PATCH
+    - accepts PATCH
 
 
 ```
